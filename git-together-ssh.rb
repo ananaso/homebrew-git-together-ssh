@@ -4,7 +4,7 @@ class GitTogetherSsh < Formula
   desc "Better commit attribution while pairing, with SSH certs!"
   homepage "https://github.com/ananaso/git-together-ssh"
   url "https://github.com/ananaso/git-together-ssh/releases/download/v#{VERSION}/git-together-ssh-v#{VERSION}-x86_64-apple-darwin.tar.gz"
-  sha256 "33901f1dfbb6aa4c04d18983f621f1daf42e3431a83af6dd8aa2a835cd89e03f"
+  sha256 "4d4bc2385f4e7f129a4ddd72bf3ea7fb11571e551c92efb7a7a53bbb2f84c4f7"
   license "MIT"
 
   depends_on "libssh2"
