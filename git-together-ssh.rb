@@ -11,7 +11,7 @@ class GitTogetherSsh < Formula
   depends_on "openssl@1.1"
   
   def install
-    bin.install "git-together"
+    bin.install "git-together-ssh"
   end
 
   test do
