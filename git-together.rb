@@ -5,7 +5,7 @@ class GitTogether < Formula
   homepage "https://github.com/ananaso/git-together-ssh"
   version VERSION
   url "https://github.com/ananaso/git-together-ssh/releases/download/v#{VERSION}/git-together-v#{VERSION}-x86_64-apple-darwin.tar.gz"
-  sha256 "c620049e1f2ef611f47a53dc3ed204dcb79a0fabf1b5d4d9c628ebaa4706a8a1"
+  sha256 "49ff331e39ef3b5e8456aed1462bd52c4b9d4a23b9427d9c1cd0c19af64ace6b"
   license "MIT"
 
   depends_on "libssh2"
